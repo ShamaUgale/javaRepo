@@ -11,12 +11,10 @@ the one who scores mores gets 1 point
 the one who reaches 100 the first wins the game
 
 */
-class Codechef
+class Game
 {
 public static void main (String[] args) throws java.lang.Exception
 {
-// your code goes here
-
     Player p1 = new Player();
     Player p2 = new Player();
    
